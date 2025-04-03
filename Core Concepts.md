@@ -1,5 +1,5 @@
-#CORE CONCEPTS
-##Agents and Models
+# CORE CONCEPTS
+## Agents and Models
 A typical agent based on the character generation system shown in the code. Here's how to structure an agent with all the available character attributes:
 
 
