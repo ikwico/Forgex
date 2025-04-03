@@ -1,1 +1,1 @@
-Eliza Docs https://github.com/elizaOS/eliza
+[Eliza Docs](https://github.com/elizaOS/eliza)
