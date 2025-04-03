@@ -20,9 +20,9 @@ Get started with ForgeX today.
 
 ForgeX is designed as a modular framework with four core components:
 
-* **ForgeX SDK** – A client-side Python package that allows developers to build and deploy AI agents.
-* **Main Server** – Handles request routing, memory storage and past interaction retrieval, security, database interaction.
-* **Eliza Server** – Specialized in Web3 operations, including blockchain transactions, governance actions, and messaging.
+* **[ForgeX SDK](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Agent%20SDK.md)** – A client-side Python package that allows developers to build and deploy AI agents.
+* **[Main Server](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Agent%20Server.md)** – Handles request routing, memory storage and past interaction retrieval, security, database interaction.
+* **[Eliza Server](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Eliza.md)** – Specialized in Web3 operations, including blockchain transactions, governance actions, and messaging.
 * **Extra-Tools Server** – Provides real-time market data, financial insights, and advanced analytics.
 
 Here’s a simplified architecture diagram:
