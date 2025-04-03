@@ -162,5 +162,5 @@ if __name__ == "__main__":
 ## Next Steps
 - Explore additional plugins and integrations
 - Customize agent behaviors with different prompts and models
-- Implement more complex multi-agent workflows
+- [Implement more complex multi-agent workflows](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Agent%20SDK.md#example-use-cases)
 - Add additional API integrations
