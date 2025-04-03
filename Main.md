@@ -39,4 +39,4 @@ Here’s a simplified architecture diagram:
 
 Click the button below to jump straight into the Quickstart Guide and start building with ForgeX today. 🚀
 
-[Quickstart Guide Link (Replace with actual link)]
+[Quickstart Guide](https://github.com/ikwico/Forgex/blob/main/Quickstart.md)
