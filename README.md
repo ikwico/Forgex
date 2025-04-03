@@ -35,7 +35,7 @@ DIAGRAM
 * **[Building Your First Agent 🤖](https://github.com/ikwico/Forgex/blob/main/Quickstart.md#creating-your-first-agent)** – Create an AI-powered Web3 agent.
 * **[Integrations 🔗](https://github.com/ikwico/Forgex/blob/main/Core%20Concepts.md#tools)** – Explore supported blockchains, APIs, and tools.
 * **[Advanced Workflows 🛠️](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Agent%20SDK.md#example-use-cases)** – Automate complex crypto trading and governance operations.
-* **Deployment Guide ☁️** – Push your agents to the cloud with a single command.
+* **[Deployment Guide ☁️](https://github.com/ikwico/Forgex/blob/main/Deployment.md)** – Push your agents to the cloud with a single command.
 * **[Custom Tool Creation](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Extra%20Tools.md#custom-tool-creation)** – Add your custom functionalities to the multi agent system
 
 ## Get Started Now!
