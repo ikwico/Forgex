@@ -31,8 +31,8 @@ DIAGRAM
 
 ## Quick Navigation
 
-* **Getting Started 🚀** – Install & set up ForgeX in minutes.
-* **Building Your First Agent 🤖** – Create an AI-powered Web3 agent.
+* **[Getting Started 🚀](https://github.com/ikwico/Forgex/blob/main/Quickstart.md)** – Install & set up ForgeX in minutes.
+* **[Building Your First Agent 🤖](https://github.com/ikwico/Forgex/blob/main/Quickstart.md)** – Create an AI-powered Web3 agent.
 * **Integrations 🔗** – Explore supported blockchains, APIs, and tools.
 * **Advanced Workflows 🛠️** – Automate complex crypto trading and governance operations.
 * **Deployment Guide ☁️** – Push your agents to the cloud with a single command.
