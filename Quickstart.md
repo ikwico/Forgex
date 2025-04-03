@@ -163,4 +163,4 @@ if __name__ == "__main__":
 - [Explore additional plugins and integrations](https://github.com/ikwico/Forgex/blob/main/Core%20Concepts.md#tools)
 - [Customize agent behaviors with different prompts and models](https://github.com/ikwico/Forgex/blob/main/Core%20Concepts.md#agents-and-models)
 - [Implement more complex multi-agent workflows](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Agent%20SDK.md#example-use-cases)
-- Add additional API integrations
+- [Add additional API integrations](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Extra%20Tools.md#custom-tool-creation)
