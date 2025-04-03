@@ -189,7 +189,7 @@ send_telegram_message(message: str, telegram_cred, username)
  - Rate limiting handling
 
 
-3.**Extra Tools**
+ 3. **Extra Tools**
 [Link](https://github.com/ikwico/Forgex/blob/main/COMPONENT%20DOCUMENTATION/Extra%20Tools.md)
 
 
