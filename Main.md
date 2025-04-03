@@ -27,6 +27,8 @@ ForgeX is designed as a modular framework with four core components:
 
 Here’s a simplified architecture diagram:
 
+DIAGRAM
+
 ## Quick Navigation
 
 * **Getting Started 🚀** – Install & set up ForgeX in minutes.
